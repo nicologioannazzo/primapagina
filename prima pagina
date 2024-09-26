@@ -1,0 +1,63 @@
+<html>
+<head>
+        <title> Prima pagina html      </title>
+		
+		
+		
+</head>
+
+<body>
+ <p>
+ 
+ <h1>
+   Ciao sono la tua prima pagina
+  </h1>
+  <p>
+  Sono Nicolò Giannazzo e inizio a studiare l'html
+<br>
+</p>
+<p>
+ Chi ha inventato questo linguaggio?
+<p>
+ Html è stato inventato da Tom Berners-lee mentre lavorava al CERN di Ginevra.
+</p>
+<br>
+</p>
+ <p>
+   Quando è stato inventato?
+   <P>
+   Nel 1989
+   </p>
+   <br>
+   </p>
+   <p>
+   Quali sono gli scopi di questo linguaggio?
+   <P>
+   Lo scopo di questo linguaggio html è descrivere la struttura e il contenuto delle pagine web utilizzando tag.
+   </p>
+   <br
+   </p>
+   <p>
+   Che cosa è il web?
+   <p>
+   Il web è un sistema di documenti interconesi tra mite link, accessibili via internetattraverso il web.
+   </p>
+   <br>
+   </p>
+   <p>
+   Che problemi risolve il WEB?
+   <p>
+   Ha risolto l'accesso all'informazione, la comunicazione,il commercio ,la collaborazionee e l'intrattenimento.
+   </p>
+   <br>
+   </p>
+   <p>
+   Che differenza cè tra il web e html ed internet?
+   <p>
+   Internet è una rete globale di computer interconn essi che utilizzano dei protocolli per comunicare,il web è un servizio che usa internet per accedere a documenti tramite il protocollo http mentre html un linguggio informatico per creare le  strutture delle pagine web.
+   </p>
+   <br>
+   </p>
+    </p>
+	<body>
+	</html>
